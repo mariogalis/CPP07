@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   Array.hpp                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: mario <mario@student.42.fr>                +#+  +:+       +#+        */
+/*   By: codespace <codespace@student.42.fr>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/15 20:13:32 by magonzal          #+#    #+#             */
-/*   Updated: 2023/11/16 11:28:28 by mario            ###   ########.fr       */
+/*   Updated: 2023/11/26 09:12:18 by codespace        ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,8 @@
 # define RESET				"\x1b[0m"
 
 #include <iostream>
+#include <cstdlib>
+
 
 
 template <typename T>
